@@ -1,0 +1,92 @@
+.footer-container {
+  background-color: rgb(56, 56, 56);
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  grid-template-areas: "link-container other-stuff-container";
+  gap: 0.5rem;
+}
+
+.link-container {
+  width: 90%;
+  text-align: left;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  padding-top: 12.5%;
+}
+
+.big-footer-title {
+  color: white;
+  font-size: 26px;
+  margin-bottom: 9px;
+}
+
+.footer-link-items {
+  color: rgba(255, 255, 255, 0.555);
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.footer-link-items:hover {
+    color: rgba(255, 255, 255, 0.700);
+}
+
+.other-stuff-container {
+  text-align: right;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  padding-top: 12.5%;
+  white-space: nowrap;
+}
+
+.footer-logo {
+  text-decoration: none;
+  color: white;
+  font-size: 50px;
+}
+
+.copyright-text {
+  color: white;
+  font-size: 10px;
+  padding-top: 30px;
+  white-space: nowrap;
+
+}
+
+.footer-icon {
+  padding-top: 25px;
+  font-size: 20px;
+  color: white;
+  margin-left: 5px;
+  padding: 5px;
+}
+
+.ig {
+  background: radial-gradient(
+    circle at 30% 107%,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
+  -webkit-background-clip: text;
+  /* Also define standard property for compatibility */
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.fb {
+    color: blue;
+}
+
+@media (min-width: 920px) {
+  .link-container {
+    margin-left: 50%;
+  }
+
+  .other-stuff-container {
+    margin-right: 50%;
+  }
+}

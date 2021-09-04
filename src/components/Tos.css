@@ -1,0 +1,38 @@
+.centered {
+    text-align: center;
+}
+
+.beginning {
+    color: rgb(54, 95, 145);
+}
+
+.last-update {
+    font-style: italic;
+    padding: 10px 0 0 0;
+    color: rgba(0, 0, 0, 0.541)
+}
+
+.title {
+    color: rgb(255, 84, 0);
+    text-align: left;
+    padding: 40px 0 0 0;
+}
+
+.content {
+    border: 2px solid;
+    padding: 20px;
+    width: 100%;
+    word-wrap: break-word;
+}
+
+.elenco {
+    padding-left: 18px;
+}
+
+li {
+    padding: 10px;   
+}
+
+.important {
+    font-size: 30px;
+}

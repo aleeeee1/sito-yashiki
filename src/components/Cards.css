@@ -1,0 +1,129 @@
+.product-title {
+  text-align: center;
+  font-size: 30px;
+  margin: 0;
+  padding-top: 10px;
+}
+
+.invisible {
+  visibility: hidden;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  margin: 50px 0;
+}
+
+.product-content {
+  width: 20%;
+  margin: 15px;
+  box-sizing: border-box;
+  float: left;
+  text-align: center;
+  border-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  /* padding-top: 10px; */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: 0.4s;
+  transform: translate(0px, -8px);
+}
+.product-image {
+  border-radius: 10px;
+  width: 100%;
+  /* transform: scale(10%); */
+  height: auto;
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+}
+.product-description {
+  text-align: center;
+  color: #b2bec3;
+  padding: 0 8px;
+}
+
+.numCount {
+  text-align: center;
+  color: #808283;
+  padding: 0 8px;
+}
+.price {
+  font-size: 26px;
+  text-align: center;
+  color: #222f3e;
+  margin: 0;
+}
+.list-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+}
+.star-icon {
+  padding: 5px;
+}
+
+.bottone {
+  text-align: center;
+  font-size: 24px;
+  color: #fff;
+  width: 100%;
+  padding: 15px;
+  border: 0px;
+  outline: none;
+  cursor: default;
+  margin-top: 5px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.image-label {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+  background: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  font-size: 30px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  transform: translate(50%, -50%);
+}
+
+.div-color {
+  background-color: #222f3e;
+}
+
+@media (min-width: 1000px) {
+  .product-content {
+    width: 10;
+  }
+}
+
+@media (max-width: 1000px) {
+  .product-content {
+    width: 46%;
+  }
+}
+@media (max-width: 750px) {
+  .product-content {
+    width: 42%;
+  }
+
+  .product-title {
+    font-size: 18px;
+  }
+
+  .price {
+    font-size: 20px;
+  }
+}

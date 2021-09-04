@@ -1,0 +1,50 @@
+.big-title {
+  font-size: 10vw;
+  text-align: center;
+}
+
+.error-description {
+  text-align: center;
+  font-size: 5vw;
+}
+
+.back-to-home {
+  text-align: center;
+  border: 2px solid black;
+  padding: 10px;
+  font-size: 5vw;
+  margin: 0 0 30px 0;
+  border-radius: 10px;
+  
+}
+
+.error-page {
+  text-align: center;
+  height: 30vh;
+  width: 100%;
+  transform: translate(0, 20%);
+  margin: 0 auto;
+  display: block;
+  word-wrap: break-word;
+}
+
+.error-icon {
+    font-size: 100px;
+    margin-bottom: 30px;
+}
+
+
+@media screen and (max-width: 960px) {
+    .big-title {
+        font-size: 7rem;
+    }
+
+    .error-description {
+        font-size: 2.4rem;
+    }
+
+    .back-to-home {
+        font-size: 2rem;
+    }
+    
+}

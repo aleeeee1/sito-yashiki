@@ -1,0 +1,384 @@
+{
+    
+    "piatti": [ 
+        {
+            "img_path": "/images/nigiri-salmone-1.jpg", 
+            "name": "Nigiri al salmone",
+            "description": "Riso con salmone",
+            "ALY": true,
+            "number": 123,
+            "nPieces": 2, 
+            "limited": false,
+            "surgelato": true
+        },
+    
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },    {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+    
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },    {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },    {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },
+        {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },    {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },    {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },    {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },    {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },    {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        },    {
+            "img_path": "/images/nigiri-tonno-1.jpg", 
+            "name": "Nigiri al tonno",
+            "description": "Riso con tonno",
+            "ALY": true,
+            "number": 124,
+            "nPieces": 2, 
+            "limited": true,
+            "surgelato": false
+    
+        }
+        
+    
+    ]
+}
